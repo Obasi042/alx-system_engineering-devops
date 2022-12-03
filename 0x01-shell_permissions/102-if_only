@@ -1,2 +1,2 @@
 #!/bin/bash
-chuser -R guillaume betty hello
+chuser -R betty hello
